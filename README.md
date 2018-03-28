@@ -8,6 +8,8 @@ _A minimal implementation of a next.js app with `next-routes` to demonstrate `ne
 
 * Run the following:
   ```
+  git clone git@github.com:fritz-c/next-routes-ie.git
+  cd next-routes-ie
   npm install
   npm run build && npm start
   ```
